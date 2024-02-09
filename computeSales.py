@@ -26,7 +26,7 @@ Usage:
     python computeSales.py priceCatalogue.json salesRecord.json
 
 Example:
-    python computeSales.py prices.json sales.json
+    python computeSales.py TC1.ProductList.json TC1.Sales.json
 """
 import json
 import time
